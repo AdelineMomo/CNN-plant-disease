@@ -25,7 +25,7 @@ These 21 classes are listed in  ```target_class.txt```
 
 
 ## Feedback
-Suggestions and opinions of this work (both positive and negative) are greatly welcome. Please contact the authors by sending email to ``` adeline87lee@gmail ``` and ``` cs.chan@um.edu.my ``` 
+Suggestions and opinions of this work (both positive and negative) are greatly welcome. Please contact the authors by sending email to ``` adeline87lee@gmail
 
 ## Lisense
 BSD-3, see ``` LICENSE ``` file for details.
