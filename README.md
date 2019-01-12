@@ -19,7 +19,7 @@ These 21 classes are listed in  ```target_class.txt```
 
 1. Users are required to install [Caffe](https://github.com/BVLC/caffe) Library.
 
-2. The train_val.prototxt and solver.prototxt are provided and can be found in the  ```codes``` folder.
+2. The train_val.prototxt and solver.prototxt are provided and can be found in the  ```models``` folder.
 
 
 ## Feedback
