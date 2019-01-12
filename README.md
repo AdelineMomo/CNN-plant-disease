@@ -1,7 +1,5 @@
 # CNN-plant-disease
 
-One Paragraph of project description goes here
-
 ## Description
 Our architecture is inspired by the Inception-v2 and v3 architectures that bring several upgrades to the initial GoogLeNet architecture
 for increasing the accuracy and reducing the computational complexity. Our architecture is a 34 layers deep CNN adding to each 
