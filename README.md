@@ -21,6 +21,7 @@ These 21 classes are listed in  ```target_class.txt```
 
 2. The train_val.prototxt and solver.prototxt are provided and can be found in the  ```models``` folder.
 
+Note that users are expected to modify the corresponding files to correct path to work properly. Enjoy!
 
 ## Feedback
 Suggestions and opinions of this work (both positive and negative) are greatly welcome. Please contact the authors by sending email to ``` adeline87lee@gmail ``` or  ``` herve.goeau@cirad.  ```
